@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NeuroEye (NEYE)</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>NeuroEye (NEYE)</h1>
+    <p>Decentralized Intelligence for a Smarter Future</p>
+  </header>
+  <section class="hero">
+    <h2>Unlock the Future of Decentralized AI</h2>
+    <button>Buy NEYE</button>
+    <button>Read the Whitepaper</button>
+  </section>
+  <section class="features">
+    <h2>Features</h2>
+    <ul>
+      <li>AI-Powered Ecosystem</li>
+      <li>Decentralized Intelligence</li>
+      <li>Secure & Scalable</li>
+    </ul>
+  </section>
+  <footer>
+    <p>Copyright © 2025 NeuroEye. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000;
+  color: #0f0;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  padding: 20px;
+  background: #111;
+}
+
+.hero {
+  margin: 40px 0;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: #0f0;
+  color: #000;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #080;
+}
+
+footer {
+  margin-top: 40px;
+  padding: 10px;
+  background: #111;
